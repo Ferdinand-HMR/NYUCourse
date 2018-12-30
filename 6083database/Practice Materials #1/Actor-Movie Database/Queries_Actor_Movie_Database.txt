@@ -1,0 +1,20 @@
+
+-- list the names of all movies
+
+-- list the name of the movie with mid = 143895
+
+-- list all movies that lost money
+
+-- list all actors who acted in 'Pizza Commercial
+
+-- list all actors who starred in 'Pizza Commercial'
+
+-- list all actors who have received more than $1,000,000 wage in one movie
+-- First case: list only actors
+-- Second case: list actors and every time they received more than $1,000,000
+
+-- list all actors who have only acted in movies that lost money
+
+-- list all actors whose movies have on average lost money
+
+-- for each actor, list the total amount of wages he/she has received
