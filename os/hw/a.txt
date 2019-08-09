@@ -1,0 +1,7 @@
+Hw2- shell.pdf
+a.txt
+head.c
+hello.c
+partner.txt
+shell
+shell.c
